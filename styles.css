@@ -19,13 +19,13 @@ code {
   border-width: 0px 0px 0px 0px;
   border-color: rgb(139, 174, 177);
   box-shadow: inset 0 0 50px rgb(27, 243, 7),
-    /* inner white */ inset 20px 0 80px rgb(251, 252, 252),
-    /* inner left magenta short */ inset -20px 0 80px rgb(9, 241, 9),
-    /* inner right cyan short */ inset 20px 0 300px rgb(38, 196, 17),
-    /* inner left magenta broad */ inset -20px 0 300px rgb(71, 238, 37),
-    /* inner right cyan broad */ 0 0 50px #fff,
-    /* outer white */ -10px 0 80px rgb(20, 194, 43),
-    /* outer left magenta */ 10px 0 80px rgb(54, 252, 4);
+    inset 20px 0 80px rgb(251, 252, 252),
+    inset -20px 0 80px rgb(9, 241, 9),
+    inset 20px 0 300px rgb(38, 196, 17),
+    inset -20px 0 300px rgb(71, 238, 37),
+    0 0 50px #fff,
+    -10px 0 80px rgb(20, 194, 43),
+    10px 0 80px rgb(54, 252, 4);
   border-radius: 20px;
   width: 300px;
   margin: auto;
